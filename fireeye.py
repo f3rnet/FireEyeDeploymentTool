@@ -147,8 +147,6 @@ class Fireeye():
 			guest_image_install()
 		elif user_choice == "5":
 			reboot()
-		elif user_choice == "6":
-			testtest()
 		else:
 			print("Invalid Option")
 			pass
